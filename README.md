@@ -65,17 +65,28 @@ Using SQL, the relationship between key columns and employee attrition is analyz
 The analysis focuses on the following columns, which play a critical role in understanding attrition:
 
 Attrition (Target column)
+
 Business Travel
 Department
+
 Distance From Office
+
 Gender
+
 Salary
+
 Job Satisfaction
+
 Marital Status
+
 Overtime
+
 Years at Company
+
 Promotion
+
 Work-Life Balance
+
 Age Group
 
 
