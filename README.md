@@ -55,4 +55,30 @@ The dataset comprises 44 columns, with the analysis focusing primarily on the mo
 
 [Dataset](https://github.com/VikyathShetty/HR_attiration-Data-Analysis)
 
+**Key Performance Indicators (KPIs)** are critical metrics that help measure and analyze the performance of employees and identify factors contributing to attrition.
+
+
+**SQL-Based Analysis:**
+ Examining How Key Columns Contribute to Attrition
+Using SQL, the relationship between key columns and employee attrition is analyzed to uncover patterns and insights. This approach helps identify the most significant factors driving attrition and enables data-driven decision-making.
+
+The analysis focuses on the following columns, which play a critical role in understanding attrition:
+
+Attrition (Target column)
+Business Travel
+Department
+Distance From Office
+Gender
+Salary
+Job Satisfaction
+Marital Status
+Overtime
+Years at Company
+Promotion
+Work-Life Balance
+Age Group
+
+
+
+
 
