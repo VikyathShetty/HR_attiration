@@ -67,6 +67,26 @@ The analysis focuses on the following columns, which play a critical role in und
 Attrition (Target column),Business Travel,Department,Distance From Office,Gender,Salary,Job Satisfaction,Marital Status,Overtime,Years at Company,Promotion,Work-Life Balance,Age Group
 
 
+## DAX Measure and Calculated Columns in PowerBI
+
+
+To analyze and summarize employee work-life status based on a **WorkLifeBalance column**, you can create a measure that groups employees into categories such as "Very Bad," "Bad," "Good," or "Very Good" (based on numeric or categorical data in the column).
+
+If the WorkLifeBalance column contains numeric values (e.g., 1 = Very Bad, 2 = Bad, etc.)
+
+Using the newly created **Age Range column** we can derive additional metrics and perform more focused analyses.
+Analyze the number of employees leaving the company within each age range.
+
+In this project, we calculate key metrics such as the **total employee count** and **attrition rate** using DAX measures in Power BI. These metrics are essential for understanding workforce dynamics and are presented visually for clarity and actionable insights.
+
+
+## PowerBI Report
+
+![PowerBI Report](https://github.com/VikyathShetty/HR_attiration-Data-Analysis/blob/main/images/Screenshot%202024-12-11%20080838.png)
+
+
+
+
 
 
 
