@@ -85,6 +85,56 @@ In this project, we calculate key metrics such as the **total employee count** a
 ![PowerBI Report](https://github.com/VikyathShetty/HR_attiration-Data-Analysis/blob/main/images/Screenshot%202024-12-11%20080838.png)
 
 
+### Skills
+
+**Data Analysis and Interpretation**
+
+Identifying key factors influencing attrition.
+Analyzing employee behavior using statistical and analytical techniques.
+
+**Data Modeling and Transformation**
+
+Merging and cleaning datasets for consistency.
+Creating calculated columns and measures in Power BI using DAX.
+
+**Visualization and Reporting**
+
+Designing dynamic dashboards and reports in Power BI.
+Employing slicers, cards, and charts for interactive visual exploration.
+
+**Domain Knowledge**
+
+Understanding employee retention, attrition, and HR metrics.
+Leveraging key performance indicators (KPIs) for decision-making.
+
+### Technologies
+**Power BI**
+
+Used for creating interactive dashboards and reports.
+Key Features Utilized: DAX measures, calculated columns, card visuals, and interactive slicers.
+
+**DAX (Data Analysis Expressions)**
+
+Creating measures for KPIs like total employees, attrition count, attrition rate, and more.
+Writing expressions for calculated columns like Age Range and measures for Work-Life Balance and Performance Rating.
+
+**SQL**
+
+Querying data to examine relationships between columns influencing attrition.
+Aggregating and transforming data for integration into Power BI.
+
+**Data Visualization Tools**
+
+Stacked Column Charts: Comparing metrics like job satisfaction across departments or age groups.
+Cards: Displaying KPIs such as total employees,attrition percent and attrition count.
+Pie Charts: Representing categorical data like attrition distribution by overtime and attiration based on satisfaction
+Donut Chart: Representing categorical data like attirition based on gender
+Matrix : Representing Attiration based on Job role and Job Satisfaction
+Stacked Area Chart : Attiration based on worklife balance and gender
+Slicer: Slicer is applied for department
+
+
+
 
 
 
