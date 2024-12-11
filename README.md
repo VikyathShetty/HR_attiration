@@ -126,11 +126,17 @@ Aggregating and transforming data for integration into Power BI.
 **Data Visualization Tools**
 
 Stacked Column Charts: Comparing metrics like job satisfaction across departments or age groups.
+
 Cards: Displaying KPIs such as total employees,attrition percent and attrition count.
+
 Pie Charts: Representing categorical data like attrition distribution by overtime and attiration based on satisfaction
+
 Donut Chart: Representing categorical data like attirition based on gender
+
 Matrix : Representing Attiration based on Job role and Job Satisfaction
+
 Stacked Area Chart : Attiration based on worklife balance and gender
+
 Slicer: Slicer is applied for department
 
 
